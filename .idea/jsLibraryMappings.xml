@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{mocha-DefinitelyTyped, sinon-DefinitelyTyped}" />
+    <file url="file://$PROJECT_DIR$" libraries="{react-DefinitelyTyped}" />
+    <file url="PROJECT" libraries="{chai-DefinitelyTyped, chai-as-promised-DefinitelyTyped, chai-enzyme-DefinitelyTyped, enzyme-DefinitelyTyped, loglevel-DefinitelyTyped, mocha-DefinitelyTyped, promise-polyfill-DefinitelyTyped, prop-types-DefinitelyTyped, react-DefinitelyTyped, react-redux-DefinitelyTyped, sinon-DefinitelyTyped, sinon-test-DefinitelyTyped, socket.io-DefinitelyTyped, socket.io-client-DefinitelyTyped, supertest-DefinitelyTyped}" />
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
