@@ -124,3 +124,7 @@ build/
 ### From Swagger
 # Runtime configuration for swagger app
 config/runtime.yaml
+
+### From .gitignore
+.expo/
+npm-debug.*
