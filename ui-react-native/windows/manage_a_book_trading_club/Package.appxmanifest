@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="b825a904-118e-49a3-b0e2-e1234e883e62"
-    Publisher="CN=Hey"
+    Name="eb7465e5-d42a-4391-85c6-17661e39bad3"
+    Publisher="CN=Hei"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="b825a904-118e-49a3-b0e2-e1234e883e62" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="eb7465e5-d42a-4391-85c6-17661e39bad3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>manage_a_book_trading_club</DisplayName>
