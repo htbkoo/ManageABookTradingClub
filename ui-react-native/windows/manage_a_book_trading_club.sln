@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manage_a_book_trading_club", "manage_a_book_trading_club\manage_a_book_trading_club.csproj", "{2CB6ECE0-A4BC-458C-A676-10BFAB68F486}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manage_a_book_trading_club", "manage_a_book_trading_club\manage_a_book_trading_club.csproj", "{DBAD28BA-B605-4030-B4FC-4C64159E79EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactNative", "..\node_modules\react-native-windows\ReactWindows\ReactNative\ReactNative.csproj", "{C7673AD5-E3AA-468C-A5FD-FA38154E205C}"
 EndProject
@@ -14,6 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactNativeWebViewBridge", 
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\node_modules\react-native-windows\ReactWindows\ReactNative.Shared\ReactNative.Shared.projitems*{c7673ad5-e3aa-468c-a5fd-fa38154e205c}*SharedItemsImports = 4
 		..\node_modules\react-native-windows\ReactWindows\ReactNative.Shared\ReactNative.Shared.projitems*{eea8b852-4d07-48e1-8294-a21ab5909fe5}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +32,42 @@ Global
 		ReleaseBundle|x86 = ReleaseBundle|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|ARM.Build.0 = Debug|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|x64.ActiveCfg = Debug|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|x64.Build.0 = Debug|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|x64.Deploy.0 = Debug|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|x86.ActiveCfg = Debug|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|x86.Build.0 = Debug|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Debug|x86.Deploy.0 = Debug|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|ARM.ActiveCfg = DebugBundle|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|ARM.Build.0 = DebugBundle|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|ARM.Deploy.0 = DebugBundle|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|x64.ActiveCfg = DebugBundle|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|x64.Build.0 = DebugBundle|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|x64.Deploy.0 = DebugBundle|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|x86.ActiveCfg = DebugBundle|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|x86.Build.0 = DebugBundle|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.DebugBundle|x86.Deploy.0 = DebugBundle|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|ARM.ActiveCfg = Release|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|ARM.Build.0 = Release|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|ARM.Deploy.0 = Release|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|x64.ActiveCfg = Release|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|x64.Build.0 = Release|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|x64.Deploy.0 = Release|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|x86.ActiveCfg = Release|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|x86.Build.0 = Release|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.Release|x86.Deploy.0 = Release|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|ARM.ActiveCfg = ReleaseBundle|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|ARM.Build.0 = ReleaseBundle|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|ARM.Deploy.0 = ReleaseBundle|ARM
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|x64.ActiveCfg = ReleaseBundle|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|x64.Build.0 = ReleaseBundle|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|x64.Deploy.0 = ReleaseBundle|x64
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|x86.ActiveCfg = ReleaseBundle|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|x86.Build.0 = ReleaseBundle|x86
+		{DBAD28BA-B605-4030-B4FC-4C64159E79EA}.ReleaseBundle|x86.Deploy.0 = ReleaseBundle|x86
 		{C7673AD5-E3AA-468C-A5FD-FA38154E205C}.Debug|ARM.ActiveCfg = Debug|ARM
 		{C7673AD5-E3AA-468C-A5FD-FA38154E205C}.Debug|ARM.Build.0 = Debug|ARM
 		{C7673AD5-E3AA-468C-A5FD-FA38154E205C}.Debug|x64.ActiveCfg = Debug|x64
